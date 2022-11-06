@@ -1,0 +1,16 @@
+{
+  "name": "drive-download-20221106t144003z-001",
+  "version": "1.0.0",
+  "description": "��T\u0000h\u0000i\u0000s\u0000 \u0000i\u0000s\u0000 \u0000r\u0000e\u0000a\u0000d\u0000m\u0000e\u0000 \u0000f\u0000i\u0000l\u0000e\u0000.\u0000",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+    
+  }
